@@ -26,3 +26,5 @@ If you wish to contribute to the project, please follow these steps:
 3. Make your changes and commit them.
 
 4. Send a pull request with your changes.
+
+![image](https://github.com/Fracktom/CaloriesPrediction/assets/129825724/f17254fb-e1a9-403a-bd8f-5a9792097996)
